@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/sanjayrk2007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=3B82F6&width=500&lines=B.Tech+CSE+%40+VIT+Chennai;ML+%2F+Deep+Learning+Engineer;150%2B+LeetCode+%7C+CGPA+8.9;Building+toward+Europe+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=3B82F6&width=500&lines=B.Tech+CSE+%40+VIT+Chennai;ML+%2F+Deep+Learning+Engineer;150%2B+LeetCode;" alt="Typing SVG" />
   </a>
 </p>
 
